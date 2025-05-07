@@ -2,3 +2,6 @@ tuyen
 test loi
 duc
 thu quy tac
+
+
+Dat dep trai so mot vu tru
